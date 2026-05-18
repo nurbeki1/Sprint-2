@@ -1,0 +1,8 @@
+Main.class
+service/ShoppingCart.class
+model/constants/Colour.class
+model/Discountable.class
+model/Food.class
+model/Apple.class
+model/constants/Discount.class
+model/Meat.class
