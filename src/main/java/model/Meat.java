@@ -2,7 +2,7 @@ package model;
 
 import model.constants.Discount;
 
-public class Meat extends Food implements Discountable {
+public class Meat extends Food {
 
     public Meat(int amount, double price) {
         this.amount = amount;
